@@ -1,6 +1,6 @@
 https://www.baiyunvpn.xyz/api/v1/client/subscribe?token=80b0f3373b6d2165cccdb9971b673515
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://sub.cjcloud.cc/api/v1/client/subscribe?token=396e4f480da71439b9187c9f2d2b2b5b
+https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=780adc0c076a8eb095b480956f3b807a
+https://trojan.trevely.us.kg/Trevely?sub
