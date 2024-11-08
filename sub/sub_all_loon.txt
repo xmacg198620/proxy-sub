@@ -1,6 +1,7 @@
+https://followcloud.space/api/v1/client/subscribe?token=05ae947b0ceff9662d5a73fccc13cd35
 https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://0099812.hublink.network/link/xAnR5ALs0FVUrzlV?clash=1
+https://gbtgurl.me/api/v1/client/subscribe?token=452dcf03cb144cfdec28b6c8e6573d27
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
