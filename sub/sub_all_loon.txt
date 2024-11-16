@@ -1,8 +1,7 @@
-https://app.jisovpn.site/api/v1/client/subscribe?token=5d2f12c9211d3c62d9cfe6360f4da146#9itrguit
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://zedping8.shop/sub/WmVkcGluZy5mcmVlLDE3MzEzNTA3MTYYznO59_ABL
-https://pavo.eu.org/api/v1/client/subscribe?token=4336f829537b98be8cb36254a33ad528
-https://dxapp.jmvks.cn/api/v1/client/subscribe?token=e29720c6300475f1248037aecc71cfc8#%E5%A4%A7%E7%86%8A%F0%9F%90%BB
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev/
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
