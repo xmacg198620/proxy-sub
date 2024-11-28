@@ -1,6 +1,5 @@
-http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev/
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-http://82.156.206.248:54455/api/v1/client/subscribe?token=ef2e196aec6b0a47d48fd6ce8ea61f62
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://www.kuaidog008.top/api/v1/client/subscribe?token=daf0a00c2fb6f609d816597f4c2bda51
+https://url.mtdwoodwork.com/api/v1/client/subscribe?token=2970cd8b058a0a1e1f4e84a30952800e
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
