@@ -1,7 +1,4 @@
-https://s.36y.me/v3/subscr?id=4bf074f47e9c4e4ba10d156e26199729
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://dd.moonriver.cfd/api/v1/client/subscribe?token=2f357d08492582d684f8493f1aa0967c
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://mc.jiedianxielou.workers.dev
+https://xn--vpn-rw7eh25o.com/api/v1/client/subscribe?token=0e573f647e6185cd4d1005c1a2832dc3
