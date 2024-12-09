@@ -1,8 +1,7 @@
-http://gbtgurl01.org/api/v1/client/subscribe?token=382aeefac92556ece9266aaf9563b308
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://pqjc.site/api/v1/client/subscribe?token=bd67375d147abe646518376c0653b679&amp;flag=meta
-https://ss.81dlg.com/dy/ss?token=e2f5bcc06458c550cdb0fcd89508d33f
-https://sub.xn--9kqt24a0kz.com/xiaomi?token=02ab3068c2bf9a9ac34151ca80f78ec4
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=d6681ca8e218af8f2ae0699e542e419c#Fastsoks
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
+http://82.156.206.248:54455/api/v1/client/subscribe?token=ef2e196aec6b0a47d48fd6ce8ea61f62
+https://pqjc.site/api/v1/client/subscribe?token=7bc7388abe016ed16833f8100a9c44bf
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://pqjc.site/api/v1/client/subscribe?token=94eaf8fb4d4883ff40701f35bf930b0b
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://bujidao.cc/sub?key=O423vHZHmxZDSWyGs20qBnLTNxqFYKqU
