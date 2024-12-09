@@ -1,5 +1,5 @@
-https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
 https://mc.jiedianxielou.workers.dev
-http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
-http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://ch.cukug.website/api/v1/client/subscribe?token=262e83838bd9f81d148be799cc00accd
