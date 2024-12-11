@@ -1,7 +1,8 @@
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://ss2.sswiwi.com/api/v1/client/subscribe?token=e0d6d09fa4dbb8a75949b04e3e733322
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=15af0f3751d9f46e6d26b79972adf3f4
-https://569cdn.1010520.click/api/v1/client/subscribe?token=2af75f7c27dfa0e5aa175c7c64c01f28
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://mc.jiedianxielou.workers.dev
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://ch.cukug.website/api/v1/client/subscribe?token=2245a3f54b5da761883eeee63de8404c
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
