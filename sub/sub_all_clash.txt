@@ -1,10 +1,6 @@
-http://82.156.206.248:54455/api/v1/client/subscribe?token=ef2e196aec6b0a47d48fd6ce8ea61f62
-http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
-https://3dxre.no-mad-world.club/link/4BJUHDdrBdPAQN1U?clash=3
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
-https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
-https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
-https://pqjc.site/api/v1/client/subscribe?token=94eaf8fb4d4883ff40701f35bf930b0b
-https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
-https://subone.xyjc.xyz/api/xyjcxyz?token=6d532bb1a3961d96aa7c55826cbafe36
+https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
+https://dy-1.smjcdh.com/api/v1/client/subscribe?token=6b3b00e21caf1d26f6d02435f8417c7c
+https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
+https://jilu.uuvpn.xyz/api/v1/client/subscribe?token=df8df202c3c1c3e044a8cbc9a5c20240
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://www.kuaidog008.top/api/v1/client/subscribe?token=daf0a00c2fb6f609d816597f4c2bda51
