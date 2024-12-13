@@ -1,6 +1,7 @@
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=828ac4d934bda38b6c93284609b0d8fe
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://ch.cukug.website/api/v1/client/subscribe?token=262e83838bd9f81d148be799cc00accd
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://ss.81dlg.com/dy/ss?token=45814b8e5d31528a5fbbaee4d156c8d8
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://mc.jiedianxielou.workers.dev
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
