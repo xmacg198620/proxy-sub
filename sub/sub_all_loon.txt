@@ -1,7 +1,6 @@
-https://ss2.sswiwi.com/api/v1/client/subscribe?token=e0d6d09fa4dbb8a75949b04e3e733322
-https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://mc.jiedianxielou.workers.dev
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://sub.xn--9kqt24a0kz.com/xiaomi?token=12ec3891d9cc325eb57a263e3fd5d418
-https://ch.cukug.website/api/v1/client/subscribe?token=262e83838bd9f81d148be799cc00accd
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
+https://1ytcom01.1yunti.net/api/v1/client/subscribe?token=a4f4afd3c81a694441731c64dbe17d47
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
