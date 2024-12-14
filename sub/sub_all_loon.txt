@@ -1,6 +1,5 @@
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 http://1.1596666.xyz/api/v1/client/subscribe?token=ba7b1ba7d530350c25f13932267d272a
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://ch.cukug.website/api/v1/client/subscribe?token=262e83838bd9f81d148be799cc00accd
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://ch.cukug.website/api/v1/client/subscribe?token=4716ebbfa9922ce407277a3029d12ce3#@v2ryNG01
