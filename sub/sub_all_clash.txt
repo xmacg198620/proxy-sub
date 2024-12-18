@@ -1,11 +1,5 @@
-http://1.1596666.xyz/api/v1/client/subscribe?token=6de50127188bebfe62e3b5565097cc88
-http://gbtgurl01.org/api/v1/client/subscribe?token=36e8a67632a8d0f0c0eea58b099a0826
-https://api.xinyo.vip/api/v1/client/subscribe?token=32766ad77e22239683fc3b9e2a06f4bd
-https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=9f94bdaabe3a18cbf142101e29f451df
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=5d8d7e20b02946587c9db997b91e3fcc
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://pqjc.site/api/v1/client/subscribe?token=efffc74cd3815fad0d7a0584ca04595c&amp;flag=meta
-https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
-https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
-https://www.dabai.in/link/CBD3dq3z8U1eSIwD?list=shadowrocket
-https://www.kuaidog008.top/api/v1/client/subscribe?token=09266cd2f72f9f6a82ca249d1147aa37
+http://82.156.206.248:54455/api/v1/client/subscribe?token=ef2e196aec6b0a47d48fd6ce8ea61f62
+https://569cdn.1010520.click/api/v1/client/subscribe?token=781d7319768d475772927420bc2a0274
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://www.kuaidog008.top/api/v1/client/subscribe?token=4ecbd1644bd0dfbd8022c8e0ee60d9e4
