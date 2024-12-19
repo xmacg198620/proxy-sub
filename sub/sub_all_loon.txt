@@ -1,8 +1,7 @@
-https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=d6681ca8e218af8f2ae0699e542e419c#Fastsoks
-https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
-http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
-https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+http://gbtgurl01.org/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://dy-1.smjcdh.com/api/v1/client/subscribe?token=6b3b00e21caf1d26f6d02435f8417c7c
