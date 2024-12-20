@@ -1,8 +1,5 @@
-http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd#subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
-https://zouma.guanhua.xyz/api/v1/client/subscribe?token=156786559d386ce1fb6a2aa97925c240
+http://113.31.116.212:13800/api/v1/client/subscribe?token=b5d84c66256755e551704d05600ada67
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
+https://lianjia.me/api/v1/client/subscribe?token=6b4570912a99d0cbbd4abf75df28e9bd
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
