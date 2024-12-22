@@ -1,5 +1,5 @@
-https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
-https://mc.jiedianxielou.workers.dev
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://cloudfisher.net/jsk34?token=357b5b436ac0b92e9649b964bf0e7a68
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=25d542f6a2d5ba619b7454be0f299da8
+https://ch.cukug.website/api/v1/client/subscribe?token=c6d12317146570a49ac956147c4239f4#%E6%BC%8F%E7%BD%91%E4%B9%8B%E9%B1%BC
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
