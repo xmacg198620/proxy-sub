@@ -1,4 +1,5 @@
-https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=a963a261a3b8c29027a09c36def5b862
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://sub.cjcloud.cc/api/v1/client/subscribe?token=396e4f480da71439b9187c9f2d2b2b5b
+https://mc.jiedianxielou.workers.dev
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
+https://ch.cukug.website/api/v1/client/subscribe?token=c6d12317146570a49ac956147c4239f4#%E6%BC%8F%E7%BD%91%E4%B9%8B%E9%B1%BC
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
