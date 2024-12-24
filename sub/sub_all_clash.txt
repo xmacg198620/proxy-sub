@@ -1,7 +1,6 @@
-http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE04ODdacUFzOTlrTU04RGtOWk0vRUZzMGNUYWdTN0NoZ1pCVkR4ZnRpbW1iWmZDM2wvd3RVeFY3ekM4aHRwNmhIS0UrYkFhQlRHY1NBZWdxYnlEVkNlK2lpRW5aZ1M3RWN0Y1VvVT0
-https://api.touhou.center/sub/a817a5effa9865af/clash
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://subone.xyjc.xyz/api/xyjcxyz?token=74352caf70a056fd30c288c6245b97d2
-https://www.dabai.in/link/XrDZWXX4ZEJ6A4Xm?clash=1
-https://xn--fhqu06a8m1asto.icu/linju?token=8b5f7cb9e6fc5a2a30c0c0e7395e4722
+http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
+https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://gbtgurl.me/api/v1/client/subscribe?token=452dcf03cb144cfdec28b6c8e6573d27
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=8174d6b23b52a904b276a7a545370e1b
+https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
