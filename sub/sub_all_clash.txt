@@ -1,6 +1,10 @@
-http://gbtgurl01.org/api/v1/client/subscribe?token=36e8a67632a8d0f0c0eea58b099a0826
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE5SK3M5Nk84Tkp2T2M0YW1jVk02d0FxbmQ2Q3l5UGF3QkJhUW1CUHNTSzNhOXJmMDFHcXJ4NE51VGpsaVlwMGgzbUgvT1pLQkRMTUhRS2xwYnFEVUNtMzN5OTBabEhwRVE9PQ
-http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
-https://ch.cukug.website/api/v1/client/subscribe?token=c6d12317146570a49ac956147c4239f4#%E6%BC%8F%E7%BD%91%E4%B9%8B%E9%B1%BC
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0xx8yFuq4uZwo0d6f0fKq4tDshF8KYLaXbReQeHesu36j9DY4YtkU96pii94VYsuogt1E9PK0LTKdv4mhRkTG80vrylw
+https://ch.owokkvsxks.store/api/v1/client/subscribe?token=ad180e3b9514176a8cb26bf2962d5f1e
+https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=35911e9a69a8bc49adf86904c16944ce
+https://pqjc.site/api/v1/client/subscribe?token=e767135e00a58db0af9ab980ab5bebae
+https://s.36y.me/v3/subscr?id=4bf074f47e9c4e4ba10d156e26199729
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://service-bmp1m9zg-1312645837.nj.apigw.tencentcs.com/api/v1/client/subscribe?token=5e4b06f23d62530a8f713ecd2f9ea2a5
+https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
+https://www.louwangzhiyu.xyz/api/v1/client/subscribe?token=8d4b6141011de1d68e5aad95d6a61329
+https://zedping8.shop/sub/WmVkcGluZy5mcmVlLDE3MzEzNTA3MTYYznO59_ABL
