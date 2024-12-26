@@ -1,12 +1,4 @@
-http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
-https://hongxingdl.com/hxvip?token=b2577ee788cce083e4b5c65e7ada95cf
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
-https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
-https://pqjc.site/api/v1/client/subscribe?token=5edc13859a73d260b04a00cf17914a5e&amp;flag=meta
-https://sub.cjcloud.cc/api/v1/client/subscribe?token=396e4f480da71439b9187c9f2d2b2b5b
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
-https://www.998877.best/api/v1/client/subscribe?token=a3304db202440473dfb2afb4082eee48
-https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
-https://xn--mesz9ptugxg.com/api/v1/client/subscribe?token=39346d0c963582a5c2084c341b774a17
+https://cpdd.one/sub?token=004c8f491fd34b029cd81badf89f8ced
+https://52pokemon.xz61.cn/api/v1/client/subscribe?token=70c4f57a9a11a006893cdd46a40861fe
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
