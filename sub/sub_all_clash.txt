@@ -1,4 +1,10 @@
+http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd#subscribe?token=e2c8421cd8543cd904f255fbef4490cd
 http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
-https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
-https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
+https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=84addb61c3a2639f5a2fa219771e6e9d
+https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=9f94bdaabe3a18cbf142101e29f451df
+https://outlinekeysrobotgb.outlinekeys.net/sub/b3V0bGluZU9wZW5LZXksMTczMzIyMjcwMAKrLjYLHAOP
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://s.36y.me/v3/subscr?id=4bf074f47e9c4e4ba10d156e26199729
+https://update.glados-config.com/clash/375238/4274066/185966/glados.yaml
+https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
