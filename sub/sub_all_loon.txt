@@ -1,5 +1,5 @@
-https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
 https://ss2.sswiwi.com/api/v1/client/subscribe?token=e0d6d09fa4dbb8a75949b04e3e733322
-https://ch.cukug.website/api/v1/client/subscribe?token=532b5378b3a92070cee1f6aa9cd6f577
-https://ch.cukug.website/api/v1/client/subscribe?token=c6d12317146570a49ac956147c4239f4#%E6%BC%8F%E7%BD%91%E4%B9%8B%E9%B1%BC
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=7bf4252b5e940a087f4f1bb649053427
+https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
