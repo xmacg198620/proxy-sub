@@ -1,5 +1,6 @@
+http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
 https://ss2.sswiwi.com/api/v1/client/subscribe?token=e0d6d09fa4dbb8a75949b04e3e733322
-https://gbtgurl.me/api/v1/client/subscribe?token=452dcf03cb144cfdec28b6c8e6573d27
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://ch.cukug.website/api/v1/client/subscribe?token=2245a3f54b5da761883eeee63de8404c
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://ch.cukug.website/api/v1/client/subscribe?token=c6d12317146570a49ac956147c4239f4#%E6%BC%8F%E7%BD%91%E4%B9%8B%E9%B1%BC
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
