@@ -1,5 +1,4 @@
+https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
 https://ss2.sswiwi.com/api/v1/client/subscribe?token=e0d6d09fa4dbb8a75949b04e3e733322
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=7bf4252b5e940a087f4f1bb649053427
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
+https://dy.kuailejc.xyz/api/v1/client/subscribe?token=707cfdd1244ebb0dd75bf2cb48fe3610
+https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
