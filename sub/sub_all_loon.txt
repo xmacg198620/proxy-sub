@@ -1,5 +1,5 @@
-https://ss2.sswiwi.com/api/v1/client/subscribe?token=e0d6d09fa4dbb8a75949b04e3e733322
 https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
-https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://dy.kuailejc.xyz/api/v1/client/subscribe?token=c1e9524933ff7c6f071066921c94b9f4
+https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
